@@ -15,7 +15,6 @@ class PersonalInfo
 {
    static void Main()
    {
-      // Write your main here
       WriteLine("Lucinda Potter");
       WriteLine("6/24/1992");
       WriteLine("work 000-555-0101");
